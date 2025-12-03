@@ -24,9 +24,9 @@ function Footer() {
             <a href="/cart" className="footer__link">
               Cart
             </a>
-            <div className="footer__copyright">
-              Copyright &copy; 2025 Library
-            </div>
+          </div>
+          <div className="footer__copyright">
+            Copyright &copy; 2025 Library
           </div>
         </div>
       </div>

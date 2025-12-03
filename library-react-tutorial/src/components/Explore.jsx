@@ -3,7 +3,7 @@ import React from "react";
 function Explore() {
   return (
     <section id="explore">
-      <div className="containter">
+      <div className="container">
         <div className="row row__column">
           <h2>
             Explore more <span className="purple">Books</span>
